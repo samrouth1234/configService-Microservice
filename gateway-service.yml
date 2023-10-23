@@ -27,5 +27,5 @@ eureka:
     instance:
       hostname: localhost
 server:
-  port: 8022
+  port: 8084
 
